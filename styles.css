@@ -36,18 +36,18 @@ button:hover{
     box-shadow: inset 5px 5px 10px #ecf0f3,
                       5px 5px 10px rgba(0,0,0, 0.16) ;
 }
-#display{
+input{
     background-color: #ecf0f3 ;
     grid-column: 1 / 5;   
     height: 120px;
     width: 320px;
     line-height: 70px;
-    text-align: right;
+    text-align: end;
     box-shadow:  inset -5px -5px 10px #fff,
                  inset 5px 5px 10px rgba(0,0,0, 0.16)     ;
     border: none;
-    color: black;
-    font-size: 50px;
+    color: rgb(80, 80, 80);
+    font-size: 30px;
     margin: auto;
     margin-top: 20px;
     margin-bottom: 20px;
